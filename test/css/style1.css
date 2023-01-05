@@ -1,0 +1,188 @@
+
+.main{
+height: 500px;
+width: 100%;
+background-image: url(../images/slider3.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+border: 1px solid;
+
+}
+div{
+    text-align: center ;
+    color: white;
+}
+#hun{
+    margin-top: 160px;
+}
+.para1{
+    font-size: 25px;
+    font-style: italic;
+}
+#head{
+    font-size: 50px; 
+    margin:25px 0 0 0;   
+    text-transform: uppercase;
+}
+.para2{
+    font-size: 30px;
+    margin:25px 0 0 0;
+    border: 2px solid white;
+
+    
+}
+.para3{
+    font-size: 25px;
+    font-style: italic;
+    margin:25px 0 0 0;
+}
+#font{
+    color: rgb(247, 245, 245);
+    font-size: 30px;
+    margin-right:80%;
+    margin-top: 20px;
+}    
+.btn{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 10px 50px;
+    margin: 25px 0px;
+}
+#div1{
+    border:hidden;
+    color: black;
+    width: 32%;
+    display: inline-block;
+    margin:5px;
+}
+#div2{
+    border:hidden;;
+    color: black;
+    width: 32%;
+    display: inline-block;
+    margin: 5px;
+}
+#div3{
+    border:hidden;
+    color: black;
+    width: 32%;
+    display: inline-block;
+    margin: 5px;
+}
+i{
+    margin-top: 20px;
+    font-size: 40px;
+}
+#search{
+    font-size: 20px;
+}
+.phone{
+    width: 40%;
+    height:500px;
+    background-image:url(../images/woman-taking-photo-of-diet-food-with-mobile-phone-royalty-free-image-1141629022-1562089609.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    margin:20px 0px 20px 0px;
+
+}
+.hun{
+    background-color: rgb(233, 227, 227);
+    height: 540px;
+}
+.hj{
+    color: black;
+    width: 25%;
+    display: inline-block;
+    margin-bottom:30px;
+    margin-left: 15%;
+    line-height: 25px;
+}
+#sec3
+{
+    color: black;
+    background-image: url(../images/slider.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin-top: 20PX;
+    height: 170px;
+}
+.sec2{
+    text-align: center;
+    color: black;
+}
+.D1
+{
+    background-image: url(../images/5.jpg);
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.D2
+{
+    background-image: url(../images/6.jpg);
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.D3
+{
+    background-image: url(../images/7.jpg);
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.D4
+{
+    background-image: url(../images/8.jpg);
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b1{
+     background-image: url(../images/1.webp);
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b2{
+    background-image: url(../images/3.jpg);
+   height: 250px;
+   width: 300px;
+   text-align: center;
+   display: inline-block;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.b3{
+    background-image: url(../images/4.webp);
+   height: 250px;
+   width: 300px;
+   text-align: center;
+   display: inline-block;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.b4{
+    background-image: url(../images/2.webp);
+   height: 250px;
+   width: 300px;
+   text-align: center;
+   display: inline-block;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
